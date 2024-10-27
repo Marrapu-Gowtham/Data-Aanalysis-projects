@@ -42,11 +42,14 @@ A study of sentiment analysis techniques applied to various texts, aiming to cla
    
 An analysis of flight pricing data to uncover trends and factors affecting ticket prices.
 
+
 8) Sales Analysis
+   
 A comprehensive examination of sales data, identifying key drivers of performance and seasonal trends.
 
 
 9) Text Classification
+    
 A machine learning project focused on classifying text into categories using various classification algorithms.
 
 
